@@ -11,6 +11,8 @@ players have 5 incorrect guesses before their session is terminated.
 
 for more details use the instructions option on the game menu.
 
-demo link: https://codesandbox.io/p/devbox/wjmmgx. go there, click run button to use program.
+## demo link: https://codesandbox.io/p/devbox/wjmmgx. go there, click run button to use program.
+
+# demonstration video: https://github.com/KEbad2008/wgg/blob/main/wggdemovid%20(1).mp4
 
 thank you and enjoy.
